@@ -1,8 +1,9 @@
 # Decode & Fame 
-
+#### Video Demo: https://youtu.be/GTJYM44zid4
 ## Project Overview
 
 "Decode and Fame" is a fun and interactive console-based guessing game where players decrypt the encrypted name of an actor using hints and logical deduction. The names of the actors and their famous movies are preloaded, and the names are encrypted using a Caesar cipher with a randomly generated key. Players attempt to guess the actor’s name, request hints, or quit the game at any point.
+
 
 ## Features
 - **Caesar Cipher Encryption:** Encrypts the actor’s name using a randomly generated shift key.
